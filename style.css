@@ -268,10 +268,10 @@ a:hover {
 
 
 .card-wrapper h2 {
-    font-size: 40px;
+    font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 4px;
-    margin: 0;
+    margin: 50px;
     transition: 0.5 ease-in-out;
 }
 
