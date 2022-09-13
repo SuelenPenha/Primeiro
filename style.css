@@ -45,13 +45,15 @@ h3 {
 #titulo {
     font-family: sans-serif;
     color: black;
-    margin-left: 7%;
+    margin-left: 1%;
+    background-color: #00f2fac0;
+
 }
 
 #subtitulo {
     font-family: sans-serif;
     color: black;
-    margin-left: 10%;
+    margin-left: 60%;
 }
 
 .fieldset {
